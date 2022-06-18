@@ -7,6 +7,9 @@ Original Paper:
  [Diffusion Paper](https://arxiv.org/pdf/1612.00005.pdf)
 
 Imagen Paper:
-  Google's Imagegen: (https://arxiv.org/pdf/2204.06125.pdf)
+  DALLE-2: [DALLE2](https://arxiv.org/pdf/2204.06125.pdf)
+  
+ Google's Imagegen:
+   Imagegen: [Imagegen](https://arxiv.org/abs/2205.11487)
 
 
